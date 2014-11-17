@@ -1,7 +1,6 @@
 #hero {
-	width:100%;
-	height: auto;
 	
+
 }
 a {
 	color:white;
@@ -95,10 +94,13 @@ figure {
 }
 .img-cap{
 	position: absolute;
-	width: 100%;
+	
 	text-align: center;
-	bottom: 35%;
+	bottom:25%;
+	left:5%;
+
 	opacity: 1;
+	text-decoration: underline;
 	font-size: 100px;
 	letter-spacing: 2px;
 	color: white;

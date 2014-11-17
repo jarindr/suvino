@@ -139,14 +139,13 @@ ul{
 	padding-bottom: 6%;
 }
 .fac{
-	background-image:url(../img/factory.jpg);
+	background-image:url(../img/handcraft.jpg);
 -webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
 background-size: cover;
-    background-attachment:fixed;
     opacity: 0.95;
-height: 400px;
+height: 500px;
     max-width: 100%;
 
 }
